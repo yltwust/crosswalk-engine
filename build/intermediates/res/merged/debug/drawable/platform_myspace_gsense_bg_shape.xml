@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-	android:shape="rectangle">
-	<solid android:color="#66000000" />
-</shape>
-
-
-<!-- From: file:/Users/ylt/code/Android/CrossWalk-Engine/Crosswalk-Engine/res/drawable/platform_myspace_gsense_bg_shape.xml -->
